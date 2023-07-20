@@ -5,6 +5,11 @@ Como parte do processo seletivo da Alest Consultoria, fora proposto um desafio v
 - Utilizar DB NoSQL Firestore
 - Utilizar Node.Js ou Typescript com o framework Express como Back-End
 
+
+## Instalação
+
+Estando dentro da pasta backend, basta inserir no terminal: `npm install`. Com isso, todas as dependências serão instaladas. 
+
 ## Estrutura do Projeto
 
 backend/src: Contém o código fonte do backend<br>
