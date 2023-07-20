@@ -5,12 +5,12 @@ Criar API Restful
     - [ X ] Criar classe para conectar no firestore
 - [ X ] <GET> Rota de listagem de produtos
 - [ X ] <POST> Rota de criação de produtos (Com imagem)
-    - [ ] Criar função para salvar imagem no storage
-- [ ] <DELETE> Rota de remoção de produtos
-- [ ] <UPDATE> Rota de atualização de produtos
+    - [ X ] Criar função para salvar imagem no storage
+- [ X ] <DELETE> Rota de remoção de produtos
+- [ X ] <UPDATE> Rota de atualização de produtos
 
 Criar Interface
-- [ ] Página de listagem de produtos
-- [ ] Botão para remover produtos
-- [ ] Input para atualizar produtos
-- [ ] Input/Página para criar produtos
+- [ X ] Página de listagem de produtos
+- [ X ] Botão para remover produtos
+- [ X ] Input para atualizar produtos
+- [ X ] Input/Página para criar produtos
