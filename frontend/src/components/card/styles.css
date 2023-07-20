@@ -1,0 +1,33 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: 200px;
+  margin: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+  
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.card p {
+  font-size: 16px;
+}
+
+.action {
+  align-self: center;
+  display: flex;
+  gap: 8px;
+}
+  
