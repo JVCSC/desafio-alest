@@ -8,7 +8,8 @@ Como parte do processo seletivo da Alest Consultoria, fora proposto um desafio v
 
 ## Instalação
 
-Estando dentro da pasta backend, basta inserir no terminal: `npm install`. Com isso, todas as dependências serão instaladas. 
+Estando no diretório de frontend ou backend, basta inserir no terminal: `npm install`. Com isso, todas as dependências serão instaladas. 
+Após a instalação, basta executar `npm run dev` para o backend ou `npm start` para o frontend.
 
 ## Estrutura do Projeto
 
