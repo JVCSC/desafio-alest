@@ -1,4 +1,4 @@
-Desafio Alest - Animerama
+# Desafio Alest - Animerama
 
 Como parte do processo seletivo da Alest Consultoria, fora proposto um desafio visando a construção de uma aplicação que realize as operações CRUD. As regras para a realização do desafio são: 
 - Utilizar React ou Angular para Front-End
@@ -7,18 +7,18 @@ Como parte do processo seletivo da Alest Consultoria, fora proposto um desafio v
 
 ## Estrutura do Projeto
 
-backend/src: Contém o código fonte do backend
-frontend/src: Contém o código fonte do frontend
+backend/src: Contém o código fonte do backend<br>
+frontend/src: Contém o código fonte do frontend<br>
 
 ## Dependências
 
-"@types/express": "4.17.17",
-"ts-node-dev": "2.0.0",
-"typescript": "5.1.6"
-"@types/cors": "2.8.13",
-"cors": "2.8.5",
-"express": "4.18.2",
-"firebase-admin": "11.10.1"
+"@types/express": "4.17.17"<br>
+"ts-node-dev": "2.0.0"<br>
+"typescript": "5.1.6"<br>
+"@types/cors": "2.8.13"<br>
+"cors": "2.8.5"<br>
+"express": "4.18.2"<br>
+"firebase-admin": "11.10.1"<br>
 
 ## Status do Projeto
 
